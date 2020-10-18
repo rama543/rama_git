@@ -1,0 +1,12 @@
+Ubuntu server 10.206.1.97 is been removed from the infra lastweek. Can you please rescan and update the inventory .
+RHEL Server from the fix provided from the  link" https://access.redhat.com/articles/11258"
+ we did applied the below changes 
+ 
+ Commands
+ 
+ But the below command cannot be run for aws rhel servers and it is for rhel server whihc is built on BYOL license . We have Raised a ticket with aws just to cross check .
+ 
+ Failed Command
+ 
+ 
+ We are working on AWS linux will keep you posted on the update .
